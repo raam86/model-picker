@@ -1,0 +1,4 @@
+{
+  "description": "The model-picker hooks module",
+  "modules": ["./register.js"]
+}

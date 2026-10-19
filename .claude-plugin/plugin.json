@@ -1,0 +1,8 @@
+{
+  "name": "model-picker",
+  "version": "0.3.0",
+  "description": "Asks how hard a new Claude Code session is before its first prompt runs, then switches to the matching model and logs the answer",
+  "author": { "name": "Raam Rosh-Hai" },
+  "repository": "https://github.com/raam86/model-picker",
+  "license": "MIT"
+}
